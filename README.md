@@ -125,7 +125,6 @@ Excel file should have columns:
 - **Customer CRUD:** Create, read, update, delete customers
 - **Multiple Data:** Handle multiple mobile numbers and addresses
 - **Family Links:** Connect customers as family members
-- **Excel Upload:** Bulk import up to 1,000,000 records
 - **Search/Filter:** Find customers quickly
 - **Modern UI:** Beautiful, responsive design
 
@@ -135,7 +134,6 @@ Excel file should have columns:
 - **Connection errors:** Verify MariaDB credentials in application.properties
 - **CORS errors:** Configure CORS in Spring Boot
 - **Frontend errors:** Ensure backend is running on port 8081
-- **Upload fails:** Check file format and size limits
 - **Database errors:** Ensure MariaDB user has proper permissions
 
 
