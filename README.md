@@ -100,7 +100,7 @@ npm start
 ### Family Members Table
 - id, customer_id, family_member_id
 
-### Master Data
+### Master Data (Only frontend Implement)
 - cities (id, name)
 - countries (id, name)
 
@@ -111,7 +111,7 @@ npm start
 3. **Access App:** http://localhost:3000
 4. **Test Features:** Add customers, upload Excel, manage family members
 
-## 📁 Bulk Upload Format
+## 📁 Bulk Upload Format (Only frontend Implement)
 
 Excel file should have columns:
 - Name (required)
